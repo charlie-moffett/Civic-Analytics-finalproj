@@ -1,6 +1,7 @@
 ### Estimating flood damage risk in NYC
 
 Civic Analytics & Urban Intelligence
+
 credit Team: Anupama Santhosh, Andrew Nell, Hongkai He, Charlie Moffett 
 
 ### EXECUTIVE SUMMARY:
