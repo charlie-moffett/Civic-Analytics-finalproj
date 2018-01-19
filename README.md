@@ -10,7 +10,7 @@ EXECUTIVE SUMMARY: Floods are among the most common and most destructive natural
 
 
 
-<p align="center">
-<img src="imgs/nyc_flood_risk_map.PNG">
+
+![nyc flood risk map](imgs/nyc_flood_risk_map.PNG)
+
 New York City - risk scoring using fixed story-size BFEs
-</p>
