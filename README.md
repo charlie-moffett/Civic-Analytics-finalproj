@@ -1,8 +1,8 @@
 ### Estimating flood damage risk in NYC
 
-CUSP-GX 7003: Civic Analytics & Urban Intelligence 
-Prof. Constantine Kontokosta 
-Fall 2017
+CUSP-GX 7003: Civic Analytics & Urban Intelligence  
+Prof. Constantine Kontokosta   
+Fall 2017  
 Project Team: Anupama Santhosh, Andrew Nell, Hongkai He, Charlie Moffett 
 
 ### EXECUTIVE SUMMARY:
